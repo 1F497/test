@@ -10,7 +10,7 @@
         "AUTH_FORM": "Y",
         "FORM[PHONE]": "{formatted_phone:+* (***) ***-**-**}",
         "TYPE": "AUTH",
-        "FORM[AUTH_TYPE]": "PHONE",
+        "FORM[AUTH_TYPE]": "PHONE"
       }
     }
   ]
