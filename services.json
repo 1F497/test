@@ -1,1 +1,1 @@
-[{"phone_codes":[7],"requests":[{"method":"POST","url":"https://www.mtsbank.ru/ajax/sms.php","data":{"phone":"{full_phone}"}}],"id":"mtsbank"}]
+[{"phone_codes":[7],"requests":[{"method":"POST","url":"https://www.mtsbank.ru/ajax/sms.php","data":{"phone":"{full_phone}"}}],"id":"mtsbank"},{"phone_codes":[7],"requests":[{"method":"POST","url":"https://api.belkacar.ru/v2.12-covid19/auth/get-code","data":{"phone":"{full_phone}","device_id":"7a68e42bae604e6d"}}],"id":"belkacar"}]
