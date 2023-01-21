@@ -1,0 +1,17 @@
+{
+  "phone_codes": [
+    7
+  ],
+  "requests": [
+    {
+      "method": "POST",
+      "url": "https://beerlogapizza.ru/ajax/global_ajax.php",
+      "data": {
+        "character": "number",
+        "phone": "{full_phone}",
+        "code": "",
+        "session_id": "e6ab56c6c97b3a47cdee0f60705a8561"
+      }
+    }
+  ]
+}
