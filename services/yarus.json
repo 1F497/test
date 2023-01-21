@@ -1,0 +1,14 @@
+{
+  "phone_codes": [
+    7
+  ],
+  "requests": [
+    {
+      "method": "POST",
+      "url": "https://api.yarus.ru/reg",
+      "data": {
+        "phone": "{formatted_phone:+*(***) ***-****}"
+      }
+    }
+  ]
+}
